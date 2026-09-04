@@ -1,12 +1,12 @@
 <!-- Animated wave cover banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D7263D,50:F4C430,100:000000&height=220&section=header&text=Hi%2C%20I%27m%20Ches%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multidisciplinary%20Creative%20%26%20Developer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C430,15:D7263D,30:000000,100:000000&height=220&section=header&text=Hello%2C%20I%20am%20Ches%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multidisciplinary%20Creative%20and%20Developer&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+%26+Web+Development;Motion+Design+%7C+Graphic+Design+%7C+UI%2FUX;Video+Editing+%7C+Social+Media+Management" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=F4C430&center=true&vCenter=true&width=600&lines=Software+%26+Web+Development;Motion+Design+%7C+Graphic+Design+%7C+UI%2FUX;Video+Editing+%7C+Social+Media+Management" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a multidisciplinary creative and tech professional working across motion design, graphic design, UI/UX, software & web development, video editing, and social media management. I have 2 years of experience as a freelance software developer, and I like building things end-to-end — from the visual identity to the code that ships it.
+I work across motion design, graphic design, UI/UX, software and web development, video editing, and social media management, and I've spent the last 2 years building real projects as a freelance software developer. I don't just design the interface or just write the code. I do both, so what ships actually looks like what was designed.
 
 ---
 
@@ -83,5 +83,5 @@ I'm a multidisciplinary creative and tech professional working across motion des
 
 <!-- Footer wave banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:F4C430,100:D7263D&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:000000,85:D7263D,100:F4C430&height=120&section=footer" width="100%"/>
 </p>
