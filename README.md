@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-I work across motion design, graphic design, UI/UX, software and web development, video editing, and social media management, and I've spent the last 2 years building real projects as a freelance software developer. I don't just design the interface or just write the code. I do both, so what ships actually looks like what was designed.
+I'm a full-stack developer first, and from there I branch into motion design, graphic design, UI/UX, video editing, and social media management. I've spent the last 2 years building real projects as a freelance software developer. I don't just design the interface or just write the code. I do both, so what ships actually looks like what was designed.
 
 ---
 
